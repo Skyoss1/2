@@ -84,7 +84,7 @@ Báo cáo bao gồm các nội dung chính sau:
     *   Truy cập [https://www.yelp.com/dataset](https://www.yelp.com/dataset) và tải xuống tập dữ liệu `yelp_academic_dataset_review.json`.
 5. **Clone repository:** (Nếu bạn có repository chứa code)
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Skyoss1/Bao-cao-thuc-tap-2024.git
     ```
 
 ## Hướng dẫn sử dụng
